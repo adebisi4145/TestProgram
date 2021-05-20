@@ -14,8 +14,6 @@ namespace TestProgram
 
             string colour = Console.ReadLine();
 
-            string colou = Console.ReadLine();
-
 
             Console.WriteLine($"Hello {name} {colour} ");
             
