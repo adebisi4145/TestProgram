@@ -14,7 +14,10 @@ namespace TestProgram
 
             string colour = Console.ReadLine();
 
+            Console.Write("what is your mothers maiden name" );
 
+            string maiden = Console.ReadLine();
+            
             Console.WriteLine($"Hello {name} {colour} ");
             
         }
